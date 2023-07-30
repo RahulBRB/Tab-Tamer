@@ -1,0 +1,16 @@
+body {
+  min-width: 250px;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+button {
+  margin-top: 10px;
+}
